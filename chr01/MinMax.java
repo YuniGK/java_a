@@ -1,3 +1,4 @@
+package chr01;
 public class MinMax {
     public static void main(String[] args) {
         int[] numbers = {10, 55, 23, 2, 79, 101, 16, 82, 30, 45};

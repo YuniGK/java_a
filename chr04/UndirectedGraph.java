@@ -1,3 +1,4 @@
+package chr04;
 public class UndirectedGraph {
     private int count;
     private int [][] verteMatrix;

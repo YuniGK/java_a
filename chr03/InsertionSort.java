@@ -1,3 +1,4 @@
+package chr03;
 public class InsertionSort {
     public static void insertionSort(int[] arr, int count) {
         int i = 0, j = 0;

@@ -1,3 +1,4 @@
+package chr02;
 public class BinarySearchProdlem {
     public static void main(String[] args) {
         

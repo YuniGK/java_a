@@ -1,3 +1,4 @@
+package chr03;
 public class HeapSort {
     private int size;
     private int heapArr[];
